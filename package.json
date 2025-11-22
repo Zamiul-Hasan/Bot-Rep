@@ -1,7 +1,7 @@
 {
 	"name": "goat-bot-v2",
 	"version": "1.5.35",
-	"description": "A simple Bot chat messenger using personal account. Made by NTKhang.",
+	"description": "A simple Bot chat messenger using personal account. Made by MD ZAMIUL HASAN.",
 	"main": "index.js",
 	"engines": {
 		"node": "18.x",
@@ -56,11 +56,11 @@
 		"dev": "set NODE_ENV=development&& node index.js",
 		"prod": "set NODE_ENV=production&& node index.js"
 	},
-	"author": "NTKhang",
+	"author": "Zamiul Hasan",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ntkhang03/Goat-Bot-V2.git"
+		"url": "README.md"
 	},
 	"keywords": [],
 	"bugs": {
